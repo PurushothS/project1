@@ -10,7 +10,7 @@ import java.util.TreeMap;
 
 public class Sample {
 public static void main(String[] args){
-	String s = "my name is purushothaman Sundar";
+	String s = "my name is purushothaman Sundaramoorthy";
 	char[] ch =s.toCharArray();
 	HashMap<Character, Integer> m	= new HashMap<>();
 	for(char c : ch){
